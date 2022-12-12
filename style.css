@@ -54,7 +54,7 @@
 }
 /* ==========================main section============================ */
 .main{
-    background: url(/images/main1copy.jpg)no-repeat;
+    background: url(./images/main1copy.jpg)no-repeat;
     background-size: cover;
     min-height: 95vh;
     width: 100%;
